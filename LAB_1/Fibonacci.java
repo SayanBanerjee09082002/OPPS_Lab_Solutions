@@ -1,4 +1,5 @@
 package LAB_1;
+package Fibonacci;
 
 public class Fibonacci {
 
