@@ -1,4 +1,5 @@
 package LAB_1;
+package SumDigits;
 
 public class SumDigits {
     static int SumDigit(String input) {
