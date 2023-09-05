@@ -1,4 +1,5 @@
 package LAB_1;
+package HarmonicSum;
 
 public class HarmonicSum {
     static double SumLTR(int n) {
