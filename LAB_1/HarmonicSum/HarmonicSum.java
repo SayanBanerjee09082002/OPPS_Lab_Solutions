@@ -1,4 +1,3 @@
-package LAB_1;
 package HarmonicSum;
 
 public class HarmonicSum {
