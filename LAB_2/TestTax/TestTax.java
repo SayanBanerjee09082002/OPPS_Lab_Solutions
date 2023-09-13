@@ -1,4 +1,5 @@
 package TestTax;
+
 import java.util.Scanner;
 
 class TaxOnSalary {

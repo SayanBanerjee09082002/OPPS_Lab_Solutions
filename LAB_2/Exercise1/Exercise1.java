@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -18,7 +17,7 @@ public class Exercise1 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         for (int i = 0; i < 10; i++) {
-            System.out.print("Enter integer number " + (i+1) + ":  ");
+            System.out.print("Enter integer number " + (i + 1) + ":  ");
             String input = reader.readLine();
 
             try {
